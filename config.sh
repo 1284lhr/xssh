@@ -1,1 +1,1 @@
-NGROK_TOKEN="2A6x9X9blGqtM09eywlsl0NoXR0_77EV4yuydA6wY3xD4tkj9"
+NGROK_TOKEN="ngrok config add-authtoken 2gfx4gJ4dDu6vecHWvndaopPl0x_QSe7WKVZcb75JBGaox2W"
